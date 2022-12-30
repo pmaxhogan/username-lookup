@@ -16,7 +16,7 @@
     "table-scraper": "^1.0.3"
   },
   "devDependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha",
